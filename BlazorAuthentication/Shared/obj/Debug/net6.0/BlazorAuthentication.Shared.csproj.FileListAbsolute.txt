@@ -1,0 +1,12 @@
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\bin\Debug\net6.0\BlazorAuthentication.Shared.deps.json
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\bin\Debug\net6.0\BlazorAuthentication.Shared.dll
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\bin\Debug\net6.0\ref\BlazorAuthentication.Shared.dll
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\bin\Debug\net6.0\BlazorAuthentication.Shared.pdb
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.csproj.AssemblyReference.cache
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.AssemblyInfoInputs.cache
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.AssemblyInfo.cs
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.csproj.CoreCompileInputs.cache
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.dll
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\ref\BlazorAuthentication.Shared.dll
+D:\BlazorAuthentication\BlazorAuthentication\BlazorAuthentication\Shared\obj\Debug\net6.0\BlazorAuthentication.Shared.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd75f111-8255-47a3-97c2-bf8b460b320a": {
+      "ProjectGuid": "cd75f111-8255-47a3-97c2-bf8b460b320a",
+      "DisplayName": "BlazorAuthentication.Client",
+      "ColorIndex": 0
+    },
+    "2a5ea082-7662-46e9-857c-4f778ba5a1c9": {
+      "ProjectGuid": "2a5ea082-7662-46e9-857c-4f778ba5a1c9",
+      "DisplayName": "BlazorAuthentication.Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
